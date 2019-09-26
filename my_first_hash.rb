@@ -5,7 +5,7 @@ def my_hash
 
 
 def shipping_manifest
-the_mani
+the_manifest =
 
 
 end
