@@ -2,8 +2,6 @@ def my_hash
     my_hash = {"name" => "Hannah", "age" => 33, "location" => "TX"}
  end
 end
-  
-end
 
 
 def shipping_manifest
