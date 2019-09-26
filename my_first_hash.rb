@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = "Hannah is the best"
+  my_hash = "Me" => "My_name"
 end
 
   
